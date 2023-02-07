@@ -5,7 +5,8 @@
 - 💬 Ask me about espresso!, road cycling!
 - 📫 How to reach me: info@velosloth.ca
 - 😄 Pronouns: He/Him
-
+- 🎖️ I'm certified in: AZ-900
+- 🏅 Previously Certified in: CCNA, CompTIA A+
 
 <!--
 **velosloth/velosloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
